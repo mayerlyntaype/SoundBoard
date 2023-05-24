@@ -14,6 +14,7 @@
 		078323962A1E6626005D5499 /* ApellidoSoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 078323942A1E6626005D5499 /* ApellidoSoundBoard.xcdatamodeld */; };
 		078323982A1E6628005D5499 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 078323972A1E6628005D5499 /* Assets.xcassets */; };
 		0783239B2A1E6628005D5499 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078323992A1E6628005D5499 /* LaunchScreen.storyboard */; };
+		078323A32A1E7047005D5499 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078323A22A1E7047005D5499 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		078323972A1E6628005D5499 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0783239A2A1E6628005D5499 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0783239C2A1E6628005D5499 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		078323A22A1E7047005D5499 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0783238D2A1E6626005D5499 /* SceneDelegate.swift */,
 				0783238F2A1E6626005D5499 /* ViewController.swift */,
 				078323912A1E6626005D5499 /* Main.storyboard */,
+				078323A22A1E7047005D5499 /* SoundViewController.swift */,
 				078323972A1E6628005D5499 /* Assets.xcassets */,
 				078323992A1E6628005D5499 /* LaunchScreen.storyboard */,
 				0783239C2A1E6628005D5499 /* Info.plist */,
@@ -145,6 +148,7 @@
 				0783238C2A1E6626005D5499 /* AppDelegate.swift in Sources */,
 				078323962A1E6626005D5499 /* ApellidoSoundBoard.xcdatamodeld in Sources */,
 				0783238E2A1E6626005D5499 /* SceneDelegate.swift in Sources */,
+				078323A32A1E7047005D5499 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
